@@ -9,7 +9,7 @@ cxx-gen = { path = "external/cxx-rs/gen/lib" }
 libc = "0.2"
 cfg-if = "1.0"
 num-traits = "0.2"
-num-derive = "0.4"
+num-derive = "0.5"
 thiserror = "1.0"
 byteorder = "1"
 size = "0.4"
